@@ -1,48 +1,6 @@
 # SmartTech-Furniture-Hub-Analysis-Excel
 SmartTech &amp; Furniture Hub Analysis :Excel
 
-This dashboard provides an analysis of sales performance for SmartTech & Furniture Hub by tracking key metrics such as Total Sales, Profit, Quantity, and Average Sales.
-
-Key Insights:
-Overall Performance:
-
-Total Sales: ₹12,66,012
-Total Profit: ₹1,92,945
-Total Quantity Sold: 19,984 units
-Average Sales per Order: ₹239.9
-Sales & Profit Analysis:
-
-Category-wise Sales & Profit:
-Furniture generates the highest profit.
-Office Supplies and Technology also contribute significantly.
-Top-Selling Sub-Categories:
-Phones, Chairs, and Machines drive the most revenue.
-Top Products by Sales:
-Costly tech products like phones and high-end furniture contribute to major sales.
-Trend Analysis:
-
-Sales & Profit Over Time:
-Sales peak in certain months, likely due to seasonal demand.
-Quantity Sold by Category:
-Office Supplies have the highest quantity sold, while Technology and Furniture have fewer but high-value sales.
-Purpose of Analysis:
-This analysis helps business decision-makers:
-✅ Identify top-performing categories & products.
-✅ Recognize sales trends and seasonal demand.
-✅ Optimize inventory based on high-demand products.
-✅ Improve profitability by focusing on high-margin products.
-
-Would you like any specific insights or modifications? 😊
-
-
-
-
-
-
-
-You said:
-give me full explaination
-ChatGPT said:
 Sales Dashboard Analysis for SmartTech & Furniture Hub
 This sales dashboard provides a comprehensive overview of the business performance in terms of sales, profit, quantity, and category-wise distribution. The goal is to analyze trends, identify top-selling products, and help decision-makers improve sales strategies.
 
